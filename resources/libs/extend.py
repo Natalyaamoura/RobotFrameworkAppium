@@ -1,4 +1,4 @@
-import keyword
+from robot.api.deco import keyword
 from robot.libraries.BuiltIn import BuiltIn
 from appium.webdriver.common.touch_action import TouchAction
 
